@@ -20,6 +20,7 @@ A continuación, se detallan los pasos realizados con sus respectivas capturas d
 
 ### Apartado 1: Crear cuenta en GitHub y repositorio "Hola Mundo"
 1. Accedí a la página web de [GitHub](https://github.com/) y me registré siguiendo los pasos indicados.
+   
    ![captura de inicio Github web](capturas_tarea/c1.png)
  
    - Para realizar el registro pinché en el botón de la parte superior derecha “Inscribirme”, ingresé mi dirección de correo (como ya tengo una cuenta con mi correo usé otra para mostrar el registro)
