@@ -27,7 +27,7 @@ A continuación, se detallan los pasos realizados con sus respectivas capturas d
 
 ![captura de inicio Github web](capturas_tarea/c2.png)
 
-Añadí una contraseña segura con mayúsculas, minúsculas y un caracter especial, y me pidió un nombre de usuario y verificación:
+Añadí una contraseña segura con mayúsculas, minúsculas y un caracter especial, y me pidió un nombre de usuario y verificación con imágenes:
 
 ![captura de inicio Github web](capturas_tarea/c3.png)
 
@@ -39,7 +39,7 @@ Una vez introducido me redirige a la página de login:
 
 ![captura de inicio Github web](capturas_tarea/c5.png)
 
-No me ha pidió que especificase si soy alumna o profesora. Tras concluir el proceso de registro, ya pude crear mi primer repositorio, incluyendo un archivo Readme en el que añado, con lenguaje de marcación, una breve explicación de la tarea.
+No me pidió que especificase si soy alumna o profesora. Tras concluir el proceso de registro, ya pude crear mi primer repositorio, incluyendo un archivo Readme en el que añado, con lenguaje de marcación, una breve explicación de la tarea.
 
 Para añdir las capturas de pantalla a este documento primero subí las imágenes a este repositorio, en una carpeta llamada "capturas_tarea"
 
