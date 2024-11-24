@@ -58,6 +58,4 @@ Y después las he llamado al documento con el siguiente código:
 
 Y eso es todo, espero haber realizado la práctica correctamente.
 
-![captura de inicio Github web](capturas_tarea/c8.png)
-
 Araceli Lauret
