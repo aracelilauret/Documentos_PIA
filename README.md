@@ -56,6 +56,15 @@ Y después las he llamado al documento con el siguiente código:
    ```python
    print("Hola Mundo")
 
+
+Conclusión:
+
+Ante la duda, y ya que tenía una cuenta previamente creada, quizá de cuando estudié ASIR, prefería seguir los pasos de la práctica y crearla de cero con otro correo electrónico, obviamnete la web ha cambiado en estos años.
+
+No tenía muy claro si crear el README era aparte, con lo que mi repositorio tiene dos apartados, este primero de 
+
+   ![captura de inicio Github web](capturas_tarea/c8-1.png)
+
 Y eso es todo, espero haber realizado la práctica correctamente.
 
 Araceli Lauret
