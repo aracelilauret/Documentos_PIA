@@ -43,6 +43,13 @@ No me pidió que especificase si soy alumna o profesora. Tras concluir el proces
 
 Para añdir las capturas de pantalla a este documento primero subí las imágenes a este repositorio, en una carpeta llamada "capturas_tarea"
 
+![captura de inicio Github web](capturas_tarea/c6.png)
+
+Y después las he llamado al documento con el siguiente código:
+
+![captura de inicio Github web](capturas_tarea/c7.png)
+
+
 3. Creé un nuevo repositorio llamado `hola-mundo`.  
    - Incluí un archivo `README.md` inicial y agregué un archivo en Python llamado `hola_mundo.py`, con el siguiente contenido:  
 
