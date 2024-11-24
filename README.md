@@ -23,7 +23,7 @@ A continuación, se detallan los pasos realizados con sus respectivas capturas d
    
    ![captura de inicio Github web](capturas_tarea/c1.png)
  
-   - Para realizar el registro pinché en el botón de la parte superior derecha “Inscribirme”, ingresé mi dirección de correo (como ya tengo una cuenta con mi correo usé otra para mostrar el registro)
+Para realizar el registro pinché en el botón de la parte superior derecha “Inscribirme”, ingresé mi dirección de correo (como ya tengo una cuenta con mi correo usé otra para mostrar el registro)
 
 ![captura de inicio Github web](capturas_tarea/c2.png)
 
