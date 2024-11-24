@@ -43,11 +43,11 @@ No me pidió que especificase si soy alumna o profesora. Tras concluir el proces
 
 Para añdir las capturas de pantalla a este documento primero subí las imágenes a este repositorio, en una carpeta llamada "capturas_tarea"
 
-![captura de inicio Github web](capturas_tarea/c6.png)
+![captura de inicio Github web](capturas_tarea/c6-1.png)
 
 Y después las he llamado al documento con el siguiente código:
 
-![captura de inicio Github web](capturas_tarea/c7.png)
+![captura de inicio Github web](capturas_tarea/c7-1.png)
 
 
 3. Creé un nuevo repositorio llamado `hola-mundo`.  
