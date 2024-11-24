@@ -22,7 +22,15 @@ A continuación, se detallan los pasos realizados con sus respectivas capturas d
 1. Accedí a la página web de [GitHub](https://github.com/) y me registré siguiendo los pasos indicados.
    ![captura de inicio Github web](capturas_tarea/c1.png)
  
-   - Para realizar el registro pinché en el botón de la parte superior derecha “Inscribirme”, ingresé mi dirección de correo (como ya tengo una cuenta con mi correo usé otra para mostrar el registro)  
+   - Para realizar el registro pinché en el botón de la parte superior derecha “Inscribirme”, ingresé mi dirección de correo (como ya tengo una cuenta con mi correo usé otra para mostrar el registro)
+![captura de inicio Github web](capturas_tarea/c2.png)
+
+![captura de inicio Github web](capturas_tarea/c3.png)
+
+![captura de inicio Github web](capturas_tarea/c4.png)
+
+ ![captura de inicio Github web](capturas_tarea/c5.png)
+
 3. Creé un nuevo repositorio llamado `hola-mundo`.  
    - Incluí un archivo `README.md` inicial y agregué un archivo en Python llamado `hola_mundo.py`, con el siguiente contenido:  
 
