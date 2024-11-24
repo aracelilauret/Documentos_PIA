@@ -34,7 +34,13 @@ Me pidió un código de verificación enviado a mi correo:
 
 ![captura de inicio Github web](capturas_tarea/c4.png)
 
+Una vez introducido me redirige a la página de login:
+
 ![captura de inicio Github web](capturas_tarea/c5.png)
+
+No me ha pidió que especificase si soy alumna o profesora. Tras concluir el proceso de registro, ya pude crear mi primer repositorio, incluyendo un archivo Readme en el que añado, con lenguaje de marcación, una breve explicación de la tarea.
+
+Para añdir las capturas de pantalla a este documento primero subí las imágenes a este repositorio, en una carpeta llamada "capturas_tarea"
 
 3. Creé un nuevo repositorio llamado `hola-mundo`.  
    - Incluí un archivo `README.md` inicial y agregué un archivo en Python llamado `hola_mundo.py`, con el siguiente contenido:  
